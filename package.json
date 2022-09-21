@@ -1,0 +1,18 @@
+{
+  "name": "api-blog",
+  "version": "1.0.0",
+  "description": "Creation d'une API pour un Blog avec Express Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Seegah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "sqlite3": "^5.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
